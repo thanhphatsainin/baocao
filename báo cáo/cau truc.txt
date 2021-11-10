@@ -1,0 +1,5 @@
+1. viết usercase tổng quan
+2. usercase chi tiết.
+3. kịch bản
+4. vẽ biểu đồ tuần tự
+5. biểu đồ pha phân tích + thiết kế + csdl
